@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PS4.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PS4.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PS4Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PS4">
+      <UniqueIdentifier>{568F924A-811E-3271-99B7-612E19BB9820}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PS4\PS4.Build.cs">
+      <Filter>Source\PS4</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PS4\PS4.cpp">
+      <Filter>Source\PS4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PS4\PS4.h">
+      <Filter>Source\PS4</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PS4\PS4Character.cpp">
+      <Filter>Source\PS4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PS4\PS4Character.h">
+      <Filter>Source\PS4</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PS4\PS4GameMode.cpp">
+      <Filter>Source\PS4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PS4\PS4GameMode.h">
+      <Filter>Source\PS4</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PS4\PS4PlayerController.cpp">
+      <Filter>Source\PS4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PS4\PS4PlayerController.h">
+      <Filter>Source\PS4</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PS4\PS4Projectile.cpp">
+      <Filter>Source\PS4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PS4\PS4Projectile.h">
+      <Filter>Source\PS4</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PS4\TP_PickUpComponent.cpp">
+      <Filter>Source\PS4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PS4\TP_PickUpComponent.h">
+      <Filter>Source\PS4</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PS4\TP_WeaponComponent.cpp">
+      <Filter>Source\PS4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PS4\TP_WeaponComponent.h">
+      <Filter>Source\PS4</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

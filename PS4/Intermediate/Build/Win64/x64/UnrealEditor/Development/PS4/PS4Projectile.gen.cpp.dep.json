@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\saave\\documents\\unreal projects\\ps4\\intermediate\\build\\win64\\unrealeditor\\inc\\ps4\\uht\\ps4projectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\saave\\documents\\unreal projects\\ps4\\intermediate\\build\\win64\\x64\\ps4editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\saave\\documents\\unreal projects\\ps4\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ps4\\definitions.ps4.h",
+            "c:\\users\\saave\\documents\\unreal projects\\ps4\\source\\ps4\\ps4projectile.h",
+            "c:\\users\\saave\\documents\\unreal projects\\ps4\\intermediate\\build\\win64\\unrealeditor\\inc\\ps4\\uht\\ps4projectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

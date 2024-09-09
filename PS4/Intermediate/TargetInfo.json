@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PS4",
+			"Path": "..\\Source\\PS4.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PS4Editor",
+			"Path": "..\\Source\\PS4Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
